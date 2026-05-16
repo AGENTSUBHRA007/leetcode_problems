@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
