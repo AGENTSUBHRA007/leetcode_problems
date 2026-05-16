@@ -7,4 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0009-palindrome-number) |
+| [2396-strictly-palindromic-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
