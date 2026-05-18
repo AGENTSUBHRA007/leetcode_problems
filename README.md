@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
