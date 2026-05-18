@@ -25,8 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
