@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
