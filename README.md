@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0009-palindrome-number) |
 | [2396-strictly-palindromic-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0704-binary-search) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0242-valid-anagram) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -87,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0169-majority-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
