@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0242-valid-anagram) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
