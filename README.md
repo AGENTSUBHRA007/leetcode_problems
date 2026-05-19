@@ -70,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
