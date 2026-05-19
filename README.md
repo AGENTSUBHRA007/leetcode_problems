@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0704-binary-search) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0242-valid-anagram) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
@@ -78,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
