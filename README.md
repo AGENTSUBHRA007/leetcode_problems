@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0009-palindrome-number) |
 | [2396-strictly-palindromic-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
