@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0704-binary-search) |
+| [0885-spiral-matrix-iii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 | [0912-sort-an-array](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0912-sort-an-array) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
