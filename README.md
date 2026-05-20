@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AGENTSUBHRA007/leetcode_problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
